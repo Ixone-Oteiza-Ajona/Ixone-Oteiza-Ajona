@@ -1,4 +1,4 @@
-# Alejandra Oteiza
+# Alejandra Oteiza Ajona
 
 **Administración y Finanzas | Data for Business | Perfil Técnico en Desarrollo Web y Sistemas**
 
