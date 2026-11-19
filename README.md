@@ -64,5 +64,6 @@ Profesional en formación con un perfil multidisciplinar que une la gestión fin
 
 ### Contacto Profesional
 
-* **LinkedIn:** [linkedin.com/in/alejandra-oteiza](https://www.linkedin.com/in/alejandra-oteiza) *(actualice con su URL exacta)*
-* **Correo profesional:** [contacto.profesional@dominio.com](mailto:contacto.profesional@dominio.com) *(se recomienda utilizar un alias exclusivo para su portfolio)*
+* **LinkedIn:** [linkedin.com/in/alejandra-oteiza](https://www.linkedin.com/in/alejandra-oteiza-ajona)
+* **Correo profesional:** [contacto.profesional@dominio.com](mailto:alejandra.oteiza.ajona+proyectos@students.thepower.education) 
+d
