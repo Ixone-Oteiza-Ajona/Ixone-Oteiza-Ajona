@@ -1,8 +1,8 @@
-# Alejandra Oteiza Ajona
+# Ixone Oteiza Ajona
 
 **Administración y Finanzas | Data for Business | Perfil Técnico en Desarrollo Web y Sistemas**
 
-Profesional en formación con un perfil multidisciplinar que une la gestión financiera y el análisis de datos con formación en desarrollo web, administración de sistemas y ciberseguridad. Actualmente busco incorporar este enfoque analítico y tecnológico en unas **prácticas de FP dentro de una Fintech especializada en inversión**.
+Le doy la bienvenida a mi portfolio profesional en GitHub. Este espacio reúne mi trayectoria, competencias y proyectos orientados a conectar la gestión financiera y el análisis de datos con formación en desarrollo web, administración de sistemas y ciberseguridad. Actualmente busco incorporar este enfoque analítico y tecnológico en unas **prácticas de FP dentro de una Fintech especializada en inversión**.
 
 ---
 
