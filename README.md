@@ -1,8 +1,8 @@
-# Hola, soy Alejandra Oteiza
+# Alejandra Oteiza
 
 **Administración y Finanzas | Data for Business | Perfil Técnico en Desarrollo Web y Sistemas**
 
-Profesional en formación con un perfil multidisciplinar que une la gestión financiera y el análisis de datos con una sólida base técnica en desarrollo web, administración de sistemas y ciberseguridad. Actualmente busco incorporar este enfoque analítico y tecnológico en unas **prácticas de FP dentro de una Fintech especializada en inversión**.
+Profesional en formación con un perfil multidisciplinar que une la gestión financiera y el análisis de datos con formación en desarrollo web, administración de sistemas y ciberseguridad. Actualmente busco incorporar este enfoque analítico y tecnológico en unas **prácticas de FP dentro de una Fintech especializada en inversión**.
 
 ---
 
